@@ -1,0 +1,33 @@
+* 
+{
+  background-color:orange;
+}
+h1
+{
+  background-color: white;
+}
+.intro
+{
+  background-color: green;
+}
+.resume
+{
+  background-color: red;
+}
+th
+{
+  background-color: black;
+  color: white;
+}
+td
+{
+  background-color:white;
+}
+h3
+{
+  color: white;
+}
+.video
+{
+  color: red;
+}
